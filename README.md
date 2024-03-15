@@ -1,2 +1,3 @@
 # Acepta-el-Reto
-Todos mi aceptas el reto
+ ## Todos los acepta el reto
+### Espero que os ayude a sacarlo o verlo de otra forma😈
