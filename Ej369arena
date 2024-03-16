@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+/**
+ *
+ * @author TenM
+ */
+public class Ej369arena {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n;
+        //Bucle si el número es 0 se sale.
+        do {
+            //Pedir un número.
+            n = sc.nextInt();
+
+            if (n <= 1000 && n != 0) {
+                //Repetir 1 las veces que haya introducido el usuario.
+                for (int i = 0; i < n; i++) {
+                    System.out.print("1");
+                }
+                System.out.println();
+            }
+
+        } while (n != 0);
+
+    }
+}
