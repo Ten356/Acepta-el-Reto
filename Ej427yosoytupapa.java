@@ -4,6 +4,7 @@ import java.util.Scanner;
  *
  * @author TenM
  */
+
 public class Ej427yosoytupapa {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
